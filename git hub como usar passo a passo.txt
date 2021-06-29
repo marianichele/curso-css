@@ -1,0 +1,8 @@
+1- abrir a pasta q eu to no explorer,
+2- abrir o cmd na pasta
+3- no cmd q abriu digitar code .
+4- no vscode abrir o terminal e mudar para o cmd e fechar aquele powershell
+5- no cmd git add .
+6- git commit -m ""
+7- git push
+e pronto
